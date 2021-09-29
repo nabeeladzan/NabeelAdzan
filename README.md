@@ -1,3 +1,3 @@
-- Hullo, I’m @NabeelAdzan
+- Hullo, I’m @nabeeladzan
 - Currently mains python and java
 - I’m currently enrolled in Telkom University
