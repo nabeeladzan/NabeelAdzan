@@ -1,3 +1,3 @@
-- Hullo, I’m @XaiGRS
+- Hullo, I’m @NabeelAdzan
 - Currently mains python and java
-- I’m currently learning C++
+- I’m currently enrolled in Telkom University
