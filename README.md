@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hullo, I’m @nabeeladzan<br>Python is my first language and currently diving headfirst into the react ecosystem.<br>Learned Java to make minecraft mods and PHP Laravel for college assigments.<br><br>Currently working on a web project involving a pokemon <br>shiny of a stack that being laravel + react + redis :O.<br><br>I’m currently enrolled in Telkom University.
 
-My Personal Site : nabeeladzan.github.io
+My Personal Site : https://nabeeladzan.github.io
 
 
 ## 🌐 Socials:
